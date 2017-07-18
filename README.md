@@ -3,8 +3,9 @@
 **Requirements:**
 ruby 2.3
 
-Installation
-Pull Code
+## Installation
+
+Pull Code:
 
 `git clone git@github.com:nodes-cloud/git-migrator-ruby.git`
 
