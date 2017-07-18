@@ -19,9 +19,10 @@ Replace @token = "<git.nodescloud.com token>" with your access token.
 
 `vim .git_migrator`
 
-`cp -rp ./git_migrator.rb /usr/bin/git_migrator`
-`chmod +x /usr/bin/git_migrator`
+Ca
 
-ruby 2.3
+Execute script
+
+`ruby ./git_migrator.rb`
 
 If PATH spec fails, execute with `ruby ./git_migrator.rb`
