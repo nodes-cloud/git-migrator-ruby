@@ -6,7 +6,7 @@ ruby 2.3
 Installation
 Pull Code
 
-`git pull`
+`git clone git@github.com:nodes-cloud/git-migrator-ruby.git`
 
 Install Gems
 
